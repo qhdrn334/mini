@@ -1,0 +1,12 @@
+<!--모든태그는 block & Inline 영역을 가지고있다.
+div -> 영역 구분 태그(block) -  실무에서 많이 쓰임
+span -> 영역 구분 태그(Inline) -  실무에서 많이 쓰임
+-->
+
+
+<div>block1</div>
+<div>block2</div>
+<div>block3</div>
+<span>inline1</span>
+<span>inline2</span>
+<span>inline3</span>
